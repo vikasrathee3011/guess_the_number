@@ -25,3 +25,7 @@ def guess():                                                                    
     print('perhaps, we are not able to get the correct number in this limited number of gusses but still we has narrowed you range\n your number lies between',A, B)
 
 guess()
+
+
+
+#the output of this function is displayed in readme file
