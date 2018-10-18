@@ -1,5 +1,5 @@
 # guess_the_number
-in this program you can the number in your mind and much more on your mind...
+in this program you can guess the number in your mind and let the programm find it...
 
 this program is written in python language.
 in this code what you have to do is, just guess a number into your mind
